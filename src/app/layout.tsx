@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   authors: [{ name: 'NURLELA' }],
   creator: 'NURLELA',
   publisher: 'NURLELA',
+  other: {
+    'facebook-domain-verification': 'wcqhlycp9pkuvdxomckm0vwb5nxhj1',
+  },
 }
 
 export default function RootLayout({

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   creator: 'NURLELA',
   publisher: 'NURLELA',
   other: {
-    'facebook-domain-verification': 'wcqhlycp9pkuvdxomckm0vwb5nxhj1',
+    'facebook-domain-verification': 'frj5a9wwolt1ugn4k2nwdvoylkz9h1',
   },
 }
 
